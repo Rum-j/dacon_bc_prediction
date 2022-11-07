@@ -1,0 +1,11 @@
+
+# Mac
+.DS_store
+.localized
+
+#Python
+__pycache__/
+
+#Jupyter
+.ipynb_checkpoint
+.
