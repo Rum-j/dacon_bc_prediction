@@ -9,5 +9,8 @@ __pycache__/
 #Jupyter
 *.ipynb_checkpoint/
 
+#wandb
+wandb/
+
 #weights
 *.pth
