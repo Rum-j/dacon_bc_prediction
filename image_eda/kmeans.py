@@ -3,7 +3,7 @@ from numpy.linalg import norm
 import copy 
 
 #From t.ly/TLq_
-
+#crop 순서 : resize - K means - score evaluation - apply crop
 
 class KMeans():
     def __init__(self, n_clusters, max_iter = 20, random_state = 60):
