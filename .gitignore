@@ -19,8 +19,9 @@ wandb/
 #csv
 *.csv
 
-#image
-*.png
+#image foler
+new_test/*
+new_train/*
 
 #vscode
 .vscode
