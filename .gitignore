@@ -7,7 +7,8 @@
 __pycache__/
 
 #Jupyter
-*.ipynb_checkpoint/
+.ipynb_checkpoints
+.ipynb_checkpoints/*
 
 #wandb
 wandb/
@@ -17,3 +18,8 @@ wandb/
 
 #csv
 *.csv
+
+#image
+*.png
+
+
