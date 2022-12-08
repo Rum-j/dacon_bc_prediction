@@ -22,4 +22,5 @@ wandb/
 #image
 *.png
 
-
+#vscode
+.vscode
