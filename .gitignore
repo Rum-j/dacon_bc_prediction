@@ -16,9 +16,6 @@ wandb/
 #weights
 *.pth
 
-#csv
-*.csv
-
 #image foler
 new_test/*
 new_train/*
